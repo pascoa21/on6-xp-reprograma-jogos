@@ -1,0 +1,25 @@
+{
+  "name": "jogos",
+  "version": "1.0.0",
+  "description": "Primeiro projeto pratico de API - GET",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascoa21/on6-xp-reprograma-jogos.git"
+  },
+  "author": "Jessyca Maria Pascoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pascoa21/on6-xp-reprograma-jogos/issues"
+  },
+  "homepage": "https://github.com/pascoa21/on6-xp-reprograma-jogos#readme"
+}
